@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AjBattle</title>
+	<atom:link href="https://ajbattle0.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ajbattle0.github.io/</link>
+	<description>Illustration, Game design and Terrain.</description>
+	<lastBuildDate>Fri, 22 Mar 2024 11:02:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://ajbattle0.github.io/wp-content/uploads/2024/03/watermark-2024-150x150.png</url>
+	<title>AjBattle</title>
+	<link>https://ajbattle0.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The joyless task of creating a free website</title>
+		<link>https://ajbattle0.github.io/the-joyless-task-of-creating-a-free-website/</link>
+					<comments>https://ajbattle0.github.io/the-joyless-task-of-creating-a-free-website/#respond</comments>
+		
+		<dc:creator><![CDATA[Ajbattle]]></dc:creator>
+		<pubDate>Fri, 22 Mar 2024 11:02:45 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://ajbattle0.github.io/?p=9</guid>
+
+					<description><![CDATA[ttle over a year ago I fell out of love with WordPress.com. At that point I stopped working on that website. However the issue with this is that I am an artist and designer who doesn&#8217;t successfully promote their work through social media and a website is a vital tool for promoting my work, getting [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>ttle over a year ago I fell out of love with WordPress.com. At that point I stopped working on that website.</p>
+
+
+
+<p>However the issue with this is that I am an artist and designer who doesn&#8217;t successfully promote their work through social media and a website is a vital tool for promoting my work, getting it out to clients and sharing my own joy in making art </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ajbattle0.github.io/the-joyless-task-of-creating-a-free-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
