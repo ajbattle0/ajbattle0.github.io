@@ -12,7 +12,7 @@
 	<atom:link href="https://ajbattle0.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ajbattle0.github.io/</link>
 	<description>Illustration, Game design and Terrain.</description>
-	<lastBuildDate>Fri, 22 Mar 2024 11:02:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Apr 2024 22:02:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,13 +28,187 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Learning to project manage</title>
+		<link>https://ajbattle0.github.io/learning-to-project-manage/</link>
+					<comments>https://ajbattle0.github.io/learning-to-project-manage/#respond</comments>
+		
+		<dc:creator><![CDATA[Ajbattle]]></dc:creator>
+		<pubDate>Mon, 15 Apr 2024 21:59:16 +0000</pubDate>
+				<category><![CDATA[Project & Productivity]]></category>
+		<guid isPermaLink="false">https://ajbattle0.github.io/?p=503</guid>
+
+					<description><![CDATA[I recently spent some time project managing a few game design projects. These were: I understood that working on these projects that sometime we might have responsibility thrust upon us even if we don&#8217;t feel comfortable with doing them. Especially being someone like myself who wants to work on creative projects, sometimes if you want [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link has-contrast-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://ajbattle0.github.io/">Home</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link has-contrast-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://ajbattle0.github.io/home/illustration/">Illustration</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link has-contrast-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://ajbattle0.github.io/home/game-design/">Game</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link has-contrast-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://ajbattle0.github.io/home/terrain/">Terrain</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link has-contrast-color has-base-background-color has-text-color has-background has-link-color wp-element-button" href="https://ajbattle0.github.io/home/blog/" style="border-style:none;border-width:0px;border-radius:0px">Blog</a></div>
+</div>
+
+
+
+<p>I recently spent some time project managing a few game design projects. These were: </p>
+
+
+
+<ul>
+<li>The Generation game: A collaboratively managed project.</li>
+
+
+
+<li>The Eden Project game: A solely project managed project with a team of five.</li>
+
+
+
+<li>Fetching sticks game: A project I co managed with another team member.</li>
+
+
+
+<li>The Almanac game: A project I solo managed.</li>
+</ul>
+
+
+
+<p>I understood that working on these projects that sometime we might have responsibility thrust upon us even if we don&#8217;t feel comfortable with doing them. Especially being someone like myself who wants to work on creative projects, sometimes if you want something to happen your going to be the one that has to manage it.</p>
+
+
+
+<p>Therefore I recently joined the MIF project management course to learn as much as I could to reduce the issues created by poor management so that I could help my team effectively manage game development.</p>
+
+
+
+<p>Contents:</p>
+
+
+
+<ol>
+<li><a href="#pid">What is a PID</a></li>
+
+
+
+<li>Executive Summary</li>
+
+
+
+<li>Project Description.</li>
+
+
+
+<li>Background of project </li>
+
+
+
+<li>Business case.</li>
+
+
+
+<li>Project Benefits.</li>
+
+
+
+<li>Project Objectives.</li>
+
+
+
+<li>&lt;Team member individual objects&gt;</li>
+
+
+
+<li>Project Scope.</li>
+
+
+
+<li>Project Approach: Options</li>
+
+
+
+<li>Project Plan: Work packages and Milestones.</li>
+
+
+
+<li>&lt;Additional&gt; Trello board and scrum method.</li>
+
+
+
+<li>&lt;Additional&gt; Jiro.</li>
+
+
+
+<li>&lt;Additional&gt; Miro.</li>
+
+
+
+<li>Project Budget.</li>
+
+
+
+<li>&lt;Additional&gt; Project roles.</li>
+
+
+
+<li>Stakeholders and Communication: Who is interested in this project</li>
+
+
+
+<li>&lt;Additional&gt; Early marketing.</li>
+
+
+
+<li>Key Project Risks.</li>
+
+
+
+<li>&lt;Additional&gt; Social contract</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading" id="pid">#1 What is a PID</h2>
+
+
+
+<p>During this project management the purpose of it was the creation of a Project Initiation Document or a P.I.D.</p>
+
+
+
+<p>A PID contains multiple plans and decisions that would be used in the future to allow your team to take on the project that has been outlined within the PID. In my case my PID will be to create a video game with a team.</p>
+
+
+
+<p>#2 Executive Summary</p>
+
+
+
+<p>The first part of the of the project is the executive summary. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ajbattle0.github.io/learning-to-project-manage/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>The joyless task of creating a free website</title>
 		<link>https://ajbattle0.github.io/the-joyless-task-of-creating-a-free-website/</link>
 					<comments>https://ajbattle0.github.io/the-joyless-task-of-creating-a-free-website/#respond</comments>
 		
 		<dc:creator><![CDATA[Ajbattle]]></dc:creator>
 		<pubDate>Fri, 22 Mar 2024 11:02:45 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Website & Blogging]]></category>
 		<guid isPermaLink="false">https://ajbattle0.github.io/?p=9</guid>
 
 					<description><![CDATA[ttle over a year ago I fell out of love with WordPress.com. At that point I stopped working on that website. However the issue with this is that I am an artist and designer who doesn&#8217;t successfully promote their work through social media and a website is a vital tool for promoting my work, getting [&#8230;]]]></description>
